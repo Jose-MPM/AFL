@@ -1,5 +1,3 @@
-
-
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.*;
@@ -9,7 +7,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.text.ParseException;
 
-import netscape.javascript.JSException;
+//import netscape.javascript.JSException;
 
 import java.util.Scanner;
 import java.util.ArrayList;
